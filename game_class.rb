@@ -32,7 +32,7 @@ class Game
             false
         else
             puts "$-$-$-$-$-$-$-$-$-$-$-$-$-$-$"
-            if any_dead == "Aaron"
+            if any_dead == "Alex"
                 puts "Alex, Congratulations for winning!"
             else
                 puts "LP, Congratulations for winning!"
